@@ -2,7 +2,7 @@ from flask import Flask, render_template, request, session
 import random
 
 app = Flask(__name__, static_url_path='/static')
-app.secret_key = 'your_secret_key'
+app.secret_key = 'KeY_@2#*_112'
 
 
 def initialize_scores():
