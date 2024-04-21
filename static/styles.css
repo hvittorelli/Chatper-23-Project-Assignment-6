@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('/static/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    color: white;
+    opacity: .8;
+}
+
+header {
+    background-color: #BE96A2;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    opacity: .8;
+}
+
+main {
+    margin: 20px auto;
+    text-align: center;
+    border: 1px solid white;
+    width: 50%
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #BE96A2;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #472E39;
+    color: white;
+}
+
+footer {
+    background-color: #BE96A2;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    width: 50%;
+    margin: 20px auto;
+}
+a {
+    font-size: 24pt;
+    color: black;
+}
+
+h3{
+  font-size: 18pt;
+}
+
+p {
+  font-size: 14pt;
+}
+
